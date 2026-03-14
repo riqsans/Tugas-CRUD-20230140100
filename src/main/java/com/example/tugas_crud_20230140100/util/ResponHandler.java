@@ -1,4 +1,4 @@
-package com.example.tugas_crud_20230140100.controller;
+package com.example.tugas_crud_20230140100.util;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
